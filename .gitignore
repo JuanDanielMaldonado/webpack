@@ -1,3 +1,5 @@
 node_modules/
 
 dist/
+
+# El codigo para recuperacion es: git checkout -- .
